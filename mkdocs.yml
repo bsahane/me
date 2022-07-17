@@ -101,8 +101,7 @@ extra_javascript:
 
 # Plugins
 plugins:
-  - tags:
-      tags_file: tags.md
+  - tags
   - search:
       separator: '[\s\u200b\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - social
