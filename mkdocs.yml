@@ -191,7 +191,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
+  - Linux:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
     - Publishing your site: publishing-your-site.md
@@ -203,7 +203,7 @@ nav:
     - Changelog:
       - changelog/index.md
       - How to upgrade: upgrade.md
-  - Setup:
+  - Ansible:
     - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
     - Changing the language: setup/changing-the-language.md
@@ -224,7 +224,7 @@ nav:
       - setup/extensions/index.md
       - Python Markdown: setup/extensions/python-markdown.md
       - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-  - Reference:
+  - AWS:
     - reference/index.md
     - Admonitions: reference/admonitions.md
     - Annotations: reference/annotations.md
@@ -241,7 +241,7 @@ nav:
     - Lists: reference/lists.md
     - MathJax: reference/mathjax.md
     - Tooltips: reference/tooltips.md
-  - Insiders:
+  - Python:
     - insiders/index.md
     - Getting started:
       - Installation: insiders/getting-started.md
