@@ -19,19 +19,19 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/
-site_author: Martin Donath
+site_name: Myself
+site_url: https://bsahane.github.io/me/
+site_author: Bhushan Sahane
 site_description: >-
   Write your documentation in Markdown and create a professional static site
   in minutes – searchable, customizable, for all devices
 
 # Repository
-repo_name: squidfunk/
-repo_url: https://github.com/squidfunk/
+repo_name: bsahane/me
+repo_url: https://github.com/bsahane/me
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: Copyright &copy; 2016 - 2022 Bhushan Sahane
 
 # Configuration
 theme:
@@ -117,12 +117,6 @@ plugins:
         upgrading.md: upgrade.md
   - minify:
       minify_html: true
-      #  - git-revision-date-localized:
-      #      enable_creation_date: true
-      #      type: timeago
-      #  - git-committers:
-      #      repository: squidfunk/
-      #      token: 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
 
 # Customization
 extra:
